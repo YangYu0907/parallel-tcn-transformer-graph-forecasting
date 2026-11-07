@@ -1,0 +1,13 @@
+{
+  "snapshot_date": "2026-11-08",
+  "files": 7752,
+  "raw_bytes": 97860413,
+  "archive_bytes": 29298204,
+  "sha256": "dbebf353cefee2440835716cd27388eea199990959bd0d72b607cb01568f3e7f",
+  "member_readback_verified": true,
+  "external_candidates_not_included": {
+    "files": 145,
+    "bytes": 1550996
+  },
+  "full_experiment_backup": false
+}

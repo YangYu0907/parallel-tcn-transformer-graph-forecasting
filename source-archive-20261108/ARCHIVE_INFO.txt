@@ -1,0 +1,11 @@
+CAISO local source archive — 2026-11-08
+
+This is an additional source-code snapshot. The published Supplementary Software S1 v1.0.0 files on main are unchanged.
+
+Contents: 7752 physical source/configuration/documentation files from the local CAISO project, 97860413 uncompressed bytes. SOURCE_MANIFEST.json inside the ZIP records each relative path, byte count, modification timestamp and SHA-256. Every archived member was read back and checked against its source hash.
+
+Scope limits: this is NOT a complete experiment-data backup. It excludes training arrays, fitted model weights, notebooks, unrelated documents and external linked directories. The local inventory lists 145 additional source/config candidates in external linked directories that were not read or included because the external drive is unreliable. No claim is made that this archive alone can rerun the full paper.
+
+Restoration: download the ZIP and verify SHA256SUMS.txt, then extract it. The CAISO_source folder preserves the relative directory structure; restore those contents into the original project root or an equivalent mapped root. Keep raw inputs, checkpoints, historical environments and source/provenance records separately. Historical scripts may contain workstation-specific paths and should be reviewed before execution.
+
+This archive contains historical experiments and dependencies as well as current source. Existing copyright and third-party terms remain applicable; this snapshot grants no new license. Credential-pattern scanning found no flagged strings, but is not a guarantee that every kind of sensitive content has been detected.
